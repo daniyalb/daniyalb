@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daniyalb
-- 👀 I’m interested in learning more programming languages such as JavaScript and C++
-- 🌱 I’m currently learning about web development using react
+- 👀 I’m interested in learning more about full stack development
+- 🌱 I’m currently learning about web development using React JS
 - 💞️ I’m looking to collaborate on many types of projects on both the front-end and back-end
 - 📫 How to reach me: bokhari.daniyal@gmail.com
 
